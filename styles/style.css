@@ -11,7 +11,7 @@ body {
 	background: url(images/sky.jpg);
 	background-attachment: fixed;
 	background-size: cover;
-	background-color: aquamarine;
+/* 	background-color: aquamarine; */
 	color: #fff;
 	display: flex;
 	flex-direction: column;
