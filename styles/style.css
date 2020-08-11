@@ -8,7 +8,7 @@
 
 body {
 	font-family: "Lobster", sans-serif;
-	background: lightskyblue url(images/sky.jpg);
+	background: url(../images/sky.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: aquamarine;
